@@ -1,0 +1,10 @@
+.qis-options {padding: 0 10px;float: left;width: 31.5%;border-left:1px solid rgb(204, 204, 204);border-right:1px solid rgb(204, 204, 204);margin-right:-1px;}
+.qis-options input[type=text], #qis-options textarea, #qis-options select, #qis-options #submit {margin: 2px 0 2px 0;padding: 2px;width: 100%;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+.qis-options p {margin: 4px 0;padding: 0;}
+.qis-options h2 {color: #005F6B;}
+.qis-options td {vertical-align:top;}
+
+#qis-widget table {margin-bottom: 20px;}
+#qis-widget td {border-top: 1px solid #005F6B;padding: 5px 10px 5px 0;max-width: 400px;vertical-align:top;}
+#qis-widget td b {color: #005F6B;}
+#qis-widget th {padding: 5px 10px 5px 0;max-width: 400px;text-align: left;color: #005F6B;}

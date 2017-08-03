@@ -1,0 +1,2 @@
+<?php
+qis_messages();
